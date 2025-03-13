@@ -1,0 +1,43 @@
+{
+    "product_dict": [
+        {
+            "rice_ball": 0
+        },
+        {
+            "instant_noodles": 3
+        },
+        {
+            "black_tea": 26
+        },
+        {
+            "ovaltine": 1
+        },
+        {
+            "oreo": 11
+        },
+        {
+            "cheetos": 0
+        },
+        {
+            "ferrero_rocher": 0
+        },
+        {
+            "puff": 2
+        },
+        {
+            "coke": 2
+        },
+        {
+            "pocky": 0
+        },
+        {
+            "pudding": 3
+        },
+        {
+            "yogurt_drink": 0
+        },
+        {
+            "matcha_latte": 0
+        }
+    ]
+}

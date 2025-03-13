@@ -1,0 +1,106 @@
+{
+    "detail": [
+        {
+            "product": [
+                "black_tea",
+                "instant_noodles"
+            ],
+            "time": "2022-05-06 00:23:00"
+        },
+        {
+            "product": [
+                "black_tea"
+            ],
+            "time": "2022-05-06 00:37:58"
+        },
+        {
+            "product": [
+                "black_tea"
+            ],
+            "time": "2022-05-06 00:44:40"
+        },
+        {
+            "product": [
+                "black_tea"
+            ],
+            "time": "2022-05-06 00:49:00"
+        },
+        {
+            "product": [
+                "black_tea"
+            ],
+            "time": "2022-05-06 00:52:34"
+        },
+        {
+            "product": [
+                "instant_noodles"
+            ],
+            "time": "2022-05-06 00:54:50"
+        },
+        {
+            "product": [
+                "instant_noodles",
+                "black_tea"
+            ],
+            "time": "2022-05-06 00:55:38"
+        },
+        {
+            "product": [
+                "black_tea"
+            ],
+            "time": "2022-05-06 12:29:43"
+        },
+        {
+            "product": [
+                "instant_noodles"
+            ],
+            "time": "2022-05-06 12:30:02"
+        },
+        {
+            "product": [
+                "instant_noodles"
+            ],
+            "time": "2022-05-06 12:30:29"
+        },
+        {
+            "product": [
+                "coke"
+            ],
+            "time": "2022-05-06 12:46:36"
+        },
+        {
+            "product": [
+                "black_tea"
+            ],
+            "time": "2022-05-06 16:30:25"
+        },
+        {
+            "product": [
+                "pudding",
+                "black_tea"
+            ],
+            "time": "2022-05-06 16:30:55"
+        },
+        {
+            "product": [
+                "pudding",
+                "black_tea"
+            ],
+            "time": "2022-05-06 16:30:55"
+        },
+        {
+            "product": [
+                "puff",
+                "oreo"
+            ],
+            "time": "2022-05-06 16:32:04"
+        },
+        {
+            "product": [
+                "puff",
+                "oreo"
+            ],
+            "time": "2022-05-06 16:32:04"
+        }
+    ]
+}
